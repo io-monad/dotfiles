@@ -17,6 +17,7 @@ node_modules=(
   "jshint"
   "mocha"
   "node-inspector"
+  "npm-check-updates"
   "sort-package-json"
   "testem"
   "textlint"
