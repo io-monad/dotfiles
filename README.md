@@ -36,6 +36,6 @@ See [installers](installers/) for details.
 
 ## License
 
-MIT (See [LICENSE.txt](LICENSE.txt))
+Public domain.
 
 Some files in `dotfiles/` are copied from Prezto project, and modified by me.
