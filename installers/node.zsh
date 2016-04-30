@@ -1,6 +1,7 @@
 node_modules=(
   "bower"
   "coffee-script"
+  "commitizen"
   "cson-cli"
   "documentation"
   "esdoc"
