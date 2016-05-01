@@ -28,6 +28,7 @@ brew fzf
 brew gdbm
 brew gibo
 brew git
+brew git-lfs
 brew go
 brew jq
 brew nkf
