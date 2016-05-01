@@ -26,6 +26,7 @@ brew autoconf
 brew docker-machine
 brew fzf
 brew gdbm
+brew gibo
 brew git
 brew go
 brew jq
