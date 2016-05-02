@@ -16,6 +16,7 @@ cask google-chrome
 cask google-japanese-ime
 cask gyazo
 cask virtualbox
+cask wercker
 
 tap caskroom/versions
 cask firefoxdeveloperedition-ja
@@ -27,8 +28,8 @@ brew docker-machine
 brew fzf
 brew gdbm
 brew gibo
-brew git
 brew git-lfs
+brew git
 brew go
 brew jq
 brew nkf
