@@ -11,8 +11,8 @@
 [alias]
   s = status
   st = status
-  c = commit
-  ci = commit
+  c = cz
+  ci = cz
   co = checkout
   cob = checkout -b
   m = checkout master
