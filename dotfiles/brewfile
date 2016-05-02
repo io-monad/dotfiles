@@ -78,6 +78,3 @@ appstore 428834068 YoruFukurou
 
 # Additional files
 file ~/.brewfile.local
-
-# After commands
-after /usr/local/opt/fzf/install --completion --key-bindings --no-update-rc

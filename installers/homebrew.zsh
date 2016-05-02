@@ -12,6 +12,9 @@ function install_homebrew {
   fi
 
   brew file install
+
+  # fzf
+  /usr/local/opt/fzf/install --completion --key-bindings --no-update-rc
 }
 
 function update_homebrew {
