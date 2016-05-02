@@ -21,4 +21,7 @@ repo = 'elzr/vim-json'
 on_ft = 'json'
 
 [[plugins]]
+repo = 'rhysd/committia.vim'
+
+[[plugins]]
 repo = 'yuroyoro/smooth_scroll.vim'

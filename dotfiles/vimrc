@@ -57,6 +57,8 @@ set hlsearch
 "# Keybindings
 nnoremap j gj
 nnoremap k gk
+nnoremap <Tab> <c-w>w
+nnoremap <s-Tab> <c-w>W
 nmap <ESC><ESC> :nohlsearch<CR><ESC>
 nmap n nzz
 nmap N Nzz
