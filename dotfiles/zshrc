@@ -23,13 +23,16 @@ export HOMEBREW_BREWFILE="$HOME/.brewfile"
 export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 
 # nodebrew
-export PATH=$HOME/.nodebrew/current/bin:$PATH
+path=(~/.nodebrew/current/bin(N-/) $path)
 
 # fzf
 [ -s ~/.fzf.zsh ] && . ~/.fzf.zsh
 
 # z
 [ -s /usr/local/etc/profile.d/z.sh ] && . /usr/local/etc/profile.d/z.sh
+
+# ~/bin
+path=(~/bin(N-/) $path)
 
 # Load .zsh/*.zsh
 for zshfile in ~/.zsh/*.zsh; do . $zshfile; done
