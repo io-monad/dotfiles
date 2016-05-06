@@ -32,6 +32,7 @@ brew gibo
 brew git-lfs
 brew git
 brew go
+brew heroku-toolbelt
 brew jq
 brew nkf
 brew nodebrew
