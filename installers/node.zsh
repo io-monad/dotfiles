@@ -16,6 +16,7 @@ node_modules=(
   "gulp"
   "jsdoc"
   "jshint"
+  "marked"
   "mocha"
   "node-inspector"
   "npm-check-updates"
