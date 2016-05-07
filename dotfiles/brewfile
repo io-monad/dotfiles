@@ -41,6 +41,7 @@ brew openssl
 brew optipng
 brew pcre
 brew peco
+brew phantomjs
 brew pkg-config
 brew rbenv-binstubs
 brew rbenv
