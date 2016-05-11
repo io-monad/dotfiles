@@ -32,7 +32,7 @@ brew gibo
 brew git-lfs
 brew git
 brew go
-brew heroku-toolbelt
+brew heroku
 brew jq
 brew mozjpeg
 brew nkf
@@ -64,6 +64,7 @@ brew rcm
 
 # Other Homebrew packages
 brew docker
+brew heroku-toolbelt
 brew the_platinum_searcher
 
 # App Store applications
