@@ -35,9 +35,10 @@ function install_node {
 }
 
 function update_node {
-  nodebrew install-binary stable || true
-  nodebrew use stable
-  nodebrew alias default stable
+  # nodebrew install-binary stable || true
+  # nodebrew use stable
+  # nodebrew alias default stable
+  # npm install -g npm $node_modules
   npm install -g npm $node_modules
 }
 
