@@ -1,0 +1,36 @@
+[user]
+  name = io-monad
+  email = iride.monad@gmail.com
+[credential]
+  helper = osxkeychain
+[core]
+  editor = atom --wait
+  excludesfile = ~/.gitignore_global
+[color]
+  ui = auto
+[alias]
+  s = status
+  st = status
+  c = commit
+  ci = commit
+  co = checkout
+  cob = checkout -b
+  m = checkout master
+  cm = checkout master
+  b = branch
+  d = diff
+  df = diff
+  dc = diff --cached
+  dfc = diff --cached
+  ds = diff --staged
+  dfs = diff --staged
+  dm = diff master
+  pr = pull --rebase
+  prr = pull --rebase --prune
+  r = rebase
+  rc = rebase --continue
+  ra = rebase --abort
+[filter "lfs"]
+	clean = git-lfs clean %f
+	smudge = git-lfs smudge %f
+	required = true
